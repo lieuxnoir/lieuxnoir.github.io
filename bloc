@@ -14,4 +14,4 @@ find site -type f | while read -r file; do
     esac
 done
 
-printf lieu.cf > docs/CNAME
+# printf lieu.cf > docs/CNAME
