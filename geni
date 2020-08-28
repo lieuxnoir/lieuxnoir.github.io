@@ -1,0 +1,12 @@
+#!/bin/sh -e
+#
+# Generate blog index.
+
+cd site; printf 'BLOG\n\n' > blog.txt
+
+find blog -type f | sort -r | while read -r blog; do
+    set -- "$(sed q "$blog")" "$(sed 2q\;d "$blog")"
+
+    printf '%s  %s\n' "$(date -d "${1##*  }" '+%F %R')" \
+                      "<a href=/${blog%.*}>${2##*  }</a>"
+done >> blog.txt

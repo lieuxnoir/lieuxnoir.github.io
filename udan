@@ -1,0 +1,12 @@
+#!/bin/sh -e
+#
+# Update now.
+
+sed '$d' site/now.txt > site/now.txt.new
+
+mv -f site/now.txt.new site/now.txt
+
+printf '%s\n' "$(date '+Last updated on %-d %b %Y, at %R.')" \
+    >> site/now.txt
+
+vi site/now.txt

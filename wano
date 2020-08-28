@@ -1,0 +1,13 @@
+#!/bin/sh -e
+#
+# Write a new blog.
+
+wano_path=site/blog/$(date +%Y%m%d%H%M).txt
+
+printf '%s\n' "\
+Date     $(date '+%a, %-d %b %Y %T %z')
+Subject  ${1:-SUBJECT}
+
+CONTENT" > "$wano_path"
+
+vi "$wano_path"
