@@ -9,7 +9,7 @@ find site -type f | while read -r file; do
     mkdir -p "${docs%/*}"
 
     case $file in
-        *.txt) cat   temp/a  "$file" temp/b > "${docs%.*}.html" ;;
+        *.txt) cat temp/a "$file" temp/b > "${docs%.*}.html" ;;
         *)     cp -f "$file" "$docs" ;;
     esac
 done
