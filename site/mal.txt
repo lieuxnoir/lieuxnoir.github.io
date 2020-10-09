@@ -1,161 +1,160 @@
 MY ANIME LIST
 
-+--------+-----------------------------+
-| STATUS | TITLE                       |
-+--------+-----------------------------+
-|        | 3D Kanojo: Real Girl        |
-|        | 3D Kanojo: Real Girl 2      |
-|        | 5-toubun no Hanayome        |
-|        | A Destructive God Sits Next |
-|        |     To Me                   |
-|        | Alice And Zorouku           |
-|        | Arakawa Under The Bridge    |
-|        | Ascendance Of A Bookworm    |
-|        | Ascendance Of A Bookworm 2  |
-|        | Asobi Asobase               |
-|        | Beastars                    |
-|        | Black Clover                |
-| OK     | Blend-S                     |
-|        | Classroom Of The Elite      |
-|        | Cromartie High School       |
-| OK     | D-Frag!                     |
-| OK     | Danshi Koukousei No         |
-|        |     Nichijou                |
-|        | Dear Sir Hannibal           |
-| OK     | DECA-DENCE                  |
-|        | Death March To The Parallel |
-|        |     World Rhapsody          |
-|        | Detroit Metal City          |
-| OK     | Dokyuu Hentai HxEros        |
-| OK     | Domestic Na Kanojo          |
-| OK     | Dr. Stone                   |
-| OK     | Dumbbell Nan Kilo Moteru    |
-|        | Fire Force                  |
-| OK     | Gabriel Dropout             |
-|        | Girls und Panzer            |
-|        | Golden Kamuy                |
-|        | Golden Kamuy 2              |
-|        | Golden Kamuy 3              |
-|        | Grand Blue                  |
-|        | Great Teacher Onizuka       |
-|        | Hakata Tonkotsu Ramens      |
-|        | Healin' Good Precure        |
-|        | High School DxD             |
-|        | High School Prodigies Have  |
-|        |     It Easy Even In Another |
-|        |     World                   |
-|        | Higurashi No Naku Koro Ni   |
-|        | Hina Festival               |
-| OK     | Houseki No Kuni             |
-|        | I Am Sakamoto               |
-|        | In Another World With My    |
-|        |     Smartphone              |
-|        | Isekai Cheat Magician       |
-|        | JoJo's Bizarre Adventure:   |
-|        |     Phantom Blood & Battle  |
-|        |     Tendency                |
-|        | JoJo's Bizarre Adventure:   |
-|        |     Stardust Crusaders &    |
-|        |     Battle In Egypt         |
-|        | JoJo's Bizarre Adventure:   |
-|        |     Stardust Crusaders OVA  |
-|        | JoJo's Bizarre Adventure:   |
-|        |     Diamond Is Unbreakable  |
-| OK     | JoJo's Bizarre Adventure:   |
-|        |     Golden Wind             |
-|        | Jujutsu Kaisen              |
-|        | KADO: The Right Answer      |
-| OK     | Kaguya-sama: Love Is War    |
-| OK     | Kaguya-sama: Love Is War 2  |
-|        | Kaichou Wa Maid-sama!       |
-|        | Kakuriyo: Bed And Breakfast |
-|        |     For Spirits             |
-| OK     | Kakushigoto                 |
-| OK     | Kami No Tou                 |
-| OK     | Kanojo, Okarishimasu        |
-|        | Karakai Jouzu No Takagi-san |
-|        | Karakai Jouzu No Takagi-san |
-|        |     2                       |
-|        | Keppeki Danshi! Aoyama-kun  |
-| OK     | Kimetsu No Yaiba            |
-|        | Kino No Tabi                |
-|        | Kitsutsuki Tanteidokoro     |
-| OK     | Last Period: The Journey To |
-|        |     The End Of The Despair  |
-|        | Machikado Mazoku            |
-| OK     | Mob Psycho 100              |
-| OK     | Mob Psycho 100 2            |
-|        | Monster Girl Doctor         |
-|        | My Bride Is A Mermaid       |
-|        | My Next Life As A           |
-|        |     Villainess: All Routes  |
-|        |     Lead To Doom            |
-|        | Nanatsu No Taizai           |
-| OK     | New Game!                   |
-| OK     | New Game!!                  |
-| OK     | Nichijou                    |
-|        | Nisekoi                     |
-|        | Nisekoi OVA                 |
-|        | Nisekoi 2                   |
-|        | Nisekoi 2 OVA               |
-|        | Noblesse                    |
-|        | One Piece                   |
-| OK     | One Punch Man               |
-|        | One Punch Man OVA           |
-| OK     | One Punch Man 2             |
-|        | One Punch Man 2 OVA         |
-|        | Ore Monogatari              |
-|        | Perfect Blue                |
-|        | Peter Grill And The         |
-|        |     Philosopher's Time      |
-|        | Poco's Udon World           |
-|        | Prison School               |
-|        | Promised Neverland          |
-|        | Re:ZERO -Starting Life In   |
-|        |     Another World-          |
-|        | Re:ZERO -Starting Life In   |
-|        |     Another World- 2        |
-|        | Rokudenashi Majutsu Koushi  |
-|        |     To Akashic Records      |
-|        | Saiki Kusuo No Sai-nan      |
-| OK     | Senryuu Shoujo              |
-| OK     | Seitokai Yakuindomo         |
-| OK     | Seitokai Yakuindomo OVA     |
-| OK     | Seitokai Yakuindomo *       |
-| OK     | Seitokai Yakuindomo * OVA   |
-| OK     | Servant X Service           |
-|        | Sewayaki Kitsune No         |
-|        |     Senko-san               |
-| OK     | Shoujo Shuumatsu Ryouku     |
-|        | Sket Dance                  |
-|        | Tada Never Falls In Love    |
-| OK     | The God Of High School      |
-|        | The Junji Ito Collection    |
-| OK     | The Misfit Of Demon King    |
-|        |     Academy                 |
-|        | The Ryuo's Work Is Never    |
-|        |     Done                    |
-|        | This Art Club Has A Problem |
-|        | Toilet-bound Hanako-kun     |
-| OK     | Uzaki-chan Wa Asobitai      |
-| OK     | Working!!                   |
-|        | Working!!'                  |
-|        | Working!!!                  |
-|        | Working!!: Lord Of          |
-|        |     Takanashi               |
-|        | WWW.Working!!               |
-| OK     | Yahari Ore No Seishun Love  |
-|        |     Comedy Wa               |
-|        |     Machigatteiru.          |
-| OK     | Yahari Ore No Seishun Love  |
-|        |     Comedy Wa               |
-|        |     Machigatteiru. Zoku     |
-| OK     | Yahari Ore No Seishun Love  |
-|        |     Comedy Wa               |
-|        |     Machigatteiru. Zoku OVA |
-| OK     | Yahari Ore No Seishun Love  |
-|        |     Comedy Wa               |
-|        |     Machigatteiru. Kan      |
-|        | Youkai Apaato No Yuuga Na   |
-|        |     Nichijou                |
-+--------+-----------------------------+
++---+----------------------------------+
+| - | TITLE                            |
++---+----------------------------------+
+|   | 3D Kanojo: Real Girl             |
+|   | 3D Kanojo: Real Girl 2           |
+|   | 5-toubun no Hanayome             |
+|   | A Destructive God Sits Next To   |
+|   |     Me                           |
+|   | Alice And Zorouku                |
+|   | Arakawa Under The Bridge         |
+|   | Ascendance Of A Bookworm         |
+|   | Ascendance Of A Bookworm 2       |
+|   | Asobi Asobase                    |
+|   | Beastars                         |
+|   | Black Clover                     |
+| O | Blend-S                          |
+|   | Classroom Of The Elite           |
+|   | Cromartie High School            |
+| O | D-Frag!                          |
+| O | Danshi Koukousei No Nichijou     |
+|   | Dear Sir Hannibal                |
+| O | DECA-DENCE                       |
+|   | Death March To The Parallel      |
+|   |     World Rhapsody               |
+|   | Detroit Metal City               |
+| O | Dokyuu Hentai HxEros             |
+| O | Domestic Na Kanojo               |
+| O | Dr. Stone                        |
+| O | Dumbbell Nan Kilo Moteru         |
+|   | Fire Force                       |
+| O | Gabriel Dropout                  |
+|   | Girls und Panzer                 |
+|   | Golden Kamuy                     |
+|   | Golden Kamuy 2                   |
+|   | Golden Kamuy 3                   |
+|   | Grand Blue                       |
+|   | Great Teacher Onizuka            |
+|   | Hakata Tonkotsu Ramens           |
+|   | Healin' Good Precure             |
+|   | High School DxD                  |
+|   | High School Prodigies Have It    |
+|   |     Easy Even In Another World   |
+| N | Higurashi No Naku Koro Ni (2020) |
+|   | Hina Festival                    |
+| O | Houseki No Kuni                  |
+|   | Isekai Wa Smartphone To Tomo Ni. |
+|   | Isekai Cheat Magician            |
+|   | Jibaku Shounen Hanako-kun        |
+|   | JoJo No Kimyou Na Bouken:        |
+|   |     Phantom Blood & Battle       |
+|   |     Tendency                     |
+|   | JoJo No Kimyou Na Bouken:        |
+|   |     Stardust Crusaders & Battle  |
+|   |     In Egypt                     |
+|   | JoJo No Kimyou Na Bouken:        |
+|   |     Stardust Crusaders OVA       |
+|   | JoJo No Kimyou Na Bouken:        |
+|   |     Diamond Is Unbreakable       |
+| O | JoJo No Kimyou Na Bouken: Golden |
+|   |     Wind                         |
+| N | Jujutsu Kaisen                   |
+|   | KADO: The Right Answer           |
+| O | Kaguya-sama: Love Is War         |
+| O | Kaguya-sama: Love Is War 2       |
+|   | Kaichou Wa Maid-sama!            |
+|   | Kakuriyo No Yadomeshi            |
+| O | Kakushigoto                      |
+| O | Kami No Tou                      |
+|   | Kangoku Gakuen                   |
+| O | Kanojo, Okarishimasu             |
+|   | Karakai Jouzu No Takagi-san      |
+|   | Karakai Jouzu No Takagi-san 2    |
+|   | Keppeki Danshi! Aoyama-kun       |
+| O | Kimetsu No Yaiba                 |
+|   | Kino No Tabi                     |
+|   | Kitsutsuki Tanteidokoro          |
+|   | Kono Bijutsubu Ni Wa Mondai Ga   |
+|   |     Aru!                         |
+| O | Last Period: Owarinaki Rasen No  |
+|   |     Monogatari                   |
+|   | Machikado Mazoku                 |
+| O | Mahouka Koukou No Rettousei      |
+|   | Mahouka Koukou No Rettousei      |
+|   |     Movie: Hoshi Wo Yobu Shoujo  |
+|   | Mahouka Koukou No Rettousei:     |
+|   |     Raihousha-hen                |
+| O | Maou Gakuin No Futekigousha:     |
+|   |     Shijou Saikyou No Maou No    |
+|   |     Shiso, Tensei Shite          |
+|   |     Shison-tachi No Gakkou E     |
+|   |     Kayou                        |
+| O | Mob Psycho 100                   |
+| O | Mob Psycho 100 2                 |
+|   | Monster Girl Doctor              |
+|   | Nanatsu No Taizai                |
+| O | New Game!                        |
+| O | New Game!!                       |
+| O | Nichijou                         |
+|   | Nisekoi                          |
+|   | Nisekoi OVA                      |
+|   | Nisekoi 2                        |
+|   | Nisekoi 2 OVA                    |
+| N | Noblesse                         |
+|   | One Piece                        |
+| O | One Punch Man                    |
+|   | One Punch Man OVA                |
+| O | One Punch Man 2                  |
+|   | One Punch Man 2 OVA              |
+|   | Ore Monogatari                   |
+|   | Otome Game No Hametsu Flag Shika |
+|   |     Nai Akuyaku Reijou Ni Tensei |
+|   |     Shiteshimashita...           |
+|   | Perfect Blue                     |
+|   | Peter Grill To Kenja No Jikan    |
+|   | Poco's Udon World                |
+|   | Promised Neverland               |
+|   | Re:ZERO -Starting Life In        |
+|   |     Another World-               |
+| O | Re:ZERO -Starting Life In        |
+|   |     Another World- 2             |
+|   | Rokudenashi Majutsu Koushi To    |
+|   |     Akashic Records              |
+|   | Ryuuou No Oshigoto!              |
+|   | Saiki Kusuo No Sai-nan           |
+|   | Sakamoto Desu Ga?                |
+| O | Senryuu Shoujo                   |
+| O | Seitokai Yakuindomo              |
+| O | Seitokai Yakuindomo OVA          |
+| O | Seitokai Yakuindomo *            |
+| O | Seitokai Yakuindomo * OVA        |
+| O | Servant X Service                |
+|   | Seto No Hanayome                 |
+|   | Sewayaki Kitsune No Senko-san    |
+| O | Shoujo Shuumatsu Ryouku          |
+|   | Sket Dance                       |
+|   | Tada Never Falls In Love         |
+| O | The God Of High School           |
+|   | The Junji Ito Collection         |
+| O | Uzaki-chan Wa Asobitai           |
+| O | Working!!                        |
+|   | Working!!'                       |
+|   | Working!!!                       |
+|   | Working!!: Lord Of Takanashi     |
+|   | WWW.Working!!                    |
+| O | Yahari Ore No Seishun Love       |
+|   |     Comedy Wa                    |
+|   |     Machigatteiru.               |
+| O | Yahari Ore No Seishun Love       |
+|   |     Comedy Wa Machigatteiru.     |
+|   |     Zoku                         |
+| O | Yahari Ore No Seishun Love       |
+|   |     Comedy Wa Machigatteiru.     |
+|   |     Zoku OVA                     |
+| O | Yahari Ore No Seishun Love       |
+|   |     Comedy Wa Machigatteiru. Kan |
+|   | Youkai Apartment No Yuuga Na     |
+|   |     Nichijou                     |
++--------------------------------------+
