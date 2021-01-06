@@ -5,6 +5,7 @@ S  TITLE
    3D Kanojo: Real Girl
    3D Kanojo: Real Girl 2
    5-toubun no Hanayome
+   5-toubun no Hanayome ∬
 X  Aho Girl
 X  Adachi to Shimamura
 X  Alice to Zorouku
@@ -37,6 +38,7 @@ X  Eromanga-sensei + OVA
 X  Fugou Keiji: Balance Unlimited
 X  Gabriel Dropout + OVA
    Girls & Panzer
+   Gleipnir
    Golden Kamuy
    Golden Kamuy 2
    Golden Kamuy 3
@@ -48,7 +50,14 @@ X  Gabriel Dropout + OVA
    Hataraku Saibo!!
    Hataraku Saibo Black
    High School DxD
-X  Higurashi no Naku Koro Ni
+X  Higurashi no Naku Koro ni
+   Higurashi no Naku Koro ni Kai + OVA
+   Higurashi no Naku Koro ni
+       Nekogoroshi-hen
+   Higurashi no Naku Koro ni Rei
+   Higurashi no Naku Koro ni Kira
+   Higurashi no Naku Koro ni Kaku
+       Outbreak
 O  Higurashi no Naku Koro Ni Gou
    Hinamatsuri
 X  Hitoribocchi no Marumaruseikatsu
@@ -72,6 +81,7 @@ X  Itai no wa Iya nano de Bougyoryoku ni
    JoJo no Kimyou na Bouken: Diamond Is
        Unbreakable
 X  JoJo no Kimyou na Bouken: Golden Wind
+X  Joshikousei no Mudazukai
 O  Jujutsu Kaisen
 X  Kaguya-sama wa Kokurasetai
        Tensai-tachi no Renai Zunousen
@@ -127,7 +137,6 @@ X  One Punch Man 2 + OVA
        Akuyaku Reijou ni Tensei
        Shiteshimashita...
    Perfect Blue
-   Peter Grill to Kenja no Jikan
    Re:ZERO -Starting Life In Another
        World-
 X  Re:ZERO -Starting Life In Another
