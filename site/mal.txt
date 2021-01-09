@@ -5,7 +5,7 @@ S  TITLE
    3D Kanojo: Real Girl
    3D Kanojo: Real Girl 2
    5-toubun no Hanayome
-   5-toubun no Hanayome ∬
+O  5-toubun no Hanayome ∬
 X  Aho Girl
 X  Adachi to Shimamura
 X  Alice to Zorouku
@@ -13,7 +13,8 @@ X  Alice to Zorouku
    Arakawa Under The Bridge x Bridge
    Asobi Asobase
    Beastars
-   Black Clover
+O  Beastars 2
+O  Black Clover
 X  Blend S
    Boku no Tonari ni Ankoku Hakaishin ga
        Imasu.
@@ -28,7 +29,7 @@ X  DECA-DENCE
 X  Dokyuu Hentai HxEros
 X  Domestic na Kanojo
 X  Dr. Stone
-   Dr. Stone: Stone Wars
+O  Dr. Stone: Stone Wars
 X  Dumbbell Nan Kilo Moteru
 O  Dungeon ni Deai wo Motomeru no wa
        Machigatteiru Darou Ka III
@@ -47,8 +48,8 @@ X  Gabriel Dropout + OVA
    Haikei, Hannibal
    Hakata Tonkotsu Ramens
    Hataraku Saibo
-   Hataraku Saibo!!
-   Hataraku Saibo Black
+O  Hataraku Saibo!!
+O  Hataraku Saibo Black
    High School DxD
 X  Higurashi no Naku Koro ni
    Higurashi no Naku Koro ni Kai + OVA
@@ -67,12 +68,15 @@ X  Hitoribocchi no Marumaruseikatsu
    Honzuki no Gekokujou: Shisho ni Naru
        Tame ni wa Shudan wo
        Erandeiraremasen 2
+O  Horimiya
+X  Houkago Teibou Nisshi
 X  Houseki no Kuni
    Isekai wa Smartphone to Tomo Ni.
    Isekai Cheat Magician
 X  Itai no wa Iya nano de Bougyoryoku ni
        Kyokufuri Shitai to Omoimasu.
    Itou Junji: Collection
+O  Jaku-Chara Tomozaki-kun
    Jibaku Shounen Hanako-kun
    JoJo no Kimyou na Bouken: Phantom
        Blood & Battle Tendency
@@ -100,8 +104,10 @@ X  Kawaikereba Hentai Demo Suki ni Natte
    Keppeki Danshi! Aoyama-kun
 X  Kimetsu no Yaiba
    Kimetsu no Yaiba: Mugen Ressha-hen
+X  Kimi no Na wa
    Kino no Tabi
    Kitsutsuki Tanteidokoro
+X  Koe no Katachi
    Kono Bijutsubu ni wa Mondai Ga Aru!
 X  Last Period: Owarinaki Rasen No
        Monogatari
@@ -128,8 +134,8 @@ X  New Game!!
 X  Nichijou
    Nisekoi + OVA
    Nisekoi 2 + OVA
-O  Noblesse
-   One Piece
+X  Noblesse
+O  One Piece
 X  One Punch Man + OVA
 X  One Punch Man 2 + OVA
    Ore Monogatari
@@ -141,7 +147,7 @@ X  One Punch Man 2 + OVA
        World-
 X  Re:ZERO -Starting Life In Another
        World- 2
-   Re:ZERO -Starting Life In Another
+O  Re:ZERO -Starting Life In Another
        World- 2 Part 2
    Rokudenashi Majutsu Koushi To
        Akashic Records
@@ -150,9 +156,9 @@ X  Re:ZERO -Starting Life In Another
    Sakamoto Desu Ga?
    Sakigake!! Cromartie Koukou
    Seikaisuru Kado
-X  Senryuu Shoujo
 X  Seitokai Yakuindomo + OVA
 X  Seitokai Yakuindomo * + OVA
+X  Senryuu Shoujo
 X  Servant X Service
    Seto no Hanayome
    Sewayaki Kitsune no Senko-san
@@ -167,6 +173,9 @@ X  Shoujo Shuumatsu Ryouku
    SKET Dance
    Stella no Mahou + OVA
    Tada-kun wa Koi Wo Shinai
+X  Tenki no Ko
+   Tensei shitara Slime Datta Ken
+O  Tensei shitara Slime Datta Ken 2
 X  The God Of High School
    Udon no Kuni no Kiniro Kemari
 X  Uzaki-chan wa Asobitai
@@ -181,7 +190,9 @@ X  Yahari Ore no Seishun Love Comedy wa
 X  Yahari Ore no Seishun Love
        Comedy wa Machigatteiru. Kan
    Yakusoku no Neverland
-   Yakusoku no Neverland 2
+O  Yakusoku no Neverland 2
    Youkai Apartment no Yuuga na Nichijou
    Youkoso Jitsuryoku Shijou Shugi No
        Kyoushitsu E
+X  Yuru Camp + OVA
+O  Yuru Camp 2
