@@ -12,6 +12,7 @@ X  Alice to Zorouku
    Arakawa Under The Bridge
    Arakawa Under The Bridge x Bridge
    Asobi Asobase
+O  Back Arrow
    Beastars
 O  Beastars 2
 O  Black Clover
@@ -109,6 +110,7 @@ X  Kimi no Na wa
    Kitsutsuki Tanteidokoro
 X  Koe no Katachi
    Kono Bijutsubu ni wa Mondai Ga Aru!
+O  Kumo Desu ga, Nani ka?
 X  Last Period: Owarinaki Rasen No
        Monogatari
    Machikado Mazoku
